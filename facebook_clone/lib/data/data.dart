@@ -180,7 +180,7 @@ final List<Post> posts = [
     caption:
         'Please enjoy this placeholder text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     timeAgo: '3hr',
-    imageUrl: "",
+    imageUrl:"",
     likes: 683,
     comments: 79,
     shares: 18,

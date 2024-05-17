@@ -1,6 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-
 import '../config/palette.dart';
 import '../models/models.dart';
 import 'widgets.dart';
